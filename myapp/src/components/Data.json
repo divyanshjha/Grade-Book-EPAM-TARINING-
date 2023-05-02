@@ -1,0 +1,92 @@
+[
+        {
+          "id": 1,
+          "name": "John Smith",
+          "ticket_number": "T1234",
+          "ticket_topic": "Database management",
+          "exam_grade": 8,
+          "rating_grade": 8,
+          "comments": "Great job, keep up the good work!"
+        },
+        {
+          "id": 2,
+          "name": "Jane Doe",
+          "ticket_number": "T5678",
+          "ticket_topic": "Web development",
+          "exam_grade": 9,
+          "rating_grade": 10,
+          "comments": "Excellent work, very impressed!"
+        },
+        {
+          "id": 3,
+          "name": "Bob Johnson",
+          "ticket_number": "T9012",
+          "ticket_topic": "Machine learning",
+          "exam_grade": 7,
+          "rating_grade": 6,
+          "comments": "Good effort, but there is room for improvement."
+        },
+        {
+          "id": 4,
+          "name": "Samantha Lee",
+          "ticket_number": "T3456",
+          "ticket_topic": "Artificial intelligence",
+          "exam_grade": 9,
+          "rating_grade": 9,
+          "comments": "Outstanding work, well done!"
+        },
+        {
+          "id": 5,
+          "name": "Saqib",
+          "ticket_number": "T7890",
+          "ticket_topic": "Software engineering",
+          "exam_grade": 4,
+          "rating_grade": 1,
+          "comments": "Great work, keep it up!"
+        },
+        {
+          "id": 6,
+          "name": "Maria Garcia",
+          "ticket_number": "T1234",
+          "ticket_topic": "Data analysis",
+          "exam_grade": 8,
+          "rating_grade": 8,
+          "comments": "Good job, but there is some room for improvement."
+        },
+        {
+          "id": 7,
+          "name": "Michael Kim",
+          "ticket_number": "T5678",
+          "ticket_topic": "Computer networking",
+          "exam_grade": 1,
+          "rating_grade": 0,
+          "comments": "Excellent work, very impressed!"
+        },
+        {
+          "id": 8,
+          "name": "Karen Wang",
+          "ticket_number": "T9012",
+          "ticket_topic": "Operating systems",
+          "exam_grade": 8,
+          "rating_grade": 7,
+          "comments": "Good effort, but there is room for improvement."
+        },
+        {
+          "id": 9,
+          "name": "Tom Liu",
+          "ticket_number": "T3456",
+          "ticket_topic": "Mobile app development",
+          "exam_grade": 3,
+          "rating_grade": 0,
+          "comments": "Great job, keep up the good work!"
+        },
+        {
+          "id": 10,
+          "name": "Emily Chang",
+          "ticket_number": "T7890",
+          "ticket_topic": "Cybersecurity",
+          "exam_grade": 9,
+          "rating_grade": 10,
+          "comments": "Outstanding work, well done!"
+        }
+]

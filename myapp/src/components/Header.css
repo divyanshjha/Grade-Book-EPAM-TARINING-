@@ -1,0 +1,57 @@
+/* .head{
+    display: inline-block;
+    height: 70px;
+    width: 100%;
+    background-color: beige ;
+    margin-top: 10px;
+}
+
+.head p{
+
+    display: inline;
+    height: 50px;
+    padding: auto;
+}
+ */
+
+
+ .box-container {
+    display: flex;
+    position: static;
+  }
+  
+  .box p{
+    text-align: center;
+    width: 495px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #394867;
+    padding-top:10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 1.5px;
+    
+  }
+  p{
+    color: aliceblue;
+    text-align: center;
+    margin: 5px;
+    font-weight: bold;
+    font-family: Segoe UI Symbol;
+    padding-bottom: 8px;
+  }
+
+p img {
+  height: 30px;
+  width: 30px;
+  margin-top: 2px;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: -5px;
+
+}
+  
+  .box:last-child {
+    margin-right: 0;
+  }
+
